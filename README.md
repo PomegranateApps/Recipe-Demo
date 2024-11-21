@@ -20,6 +20,9 @@
 - Focused on delivering functional solutions with minimal code, optimizing for simplicity and readability under the time constraints.
 - Avoided advanced features such UI animations to ensure completion of core functionality within a few hours.
 
+### Weakest Part of the Project: What do you think is the weakest part of your project?
+- The UI for navigating to a YouTube video could be more intuitive. Under the time constraints, I wasn’t sure of the best way to handle multiple actions for each recipe while keeping the interface clean and user-friendly. This is an area I would focus on improving with additional time.
+
 ### External Code and Dependencies: Did you use any external code, libraries, or dependencies?
 - No external libraries or dependencies were used.
 
